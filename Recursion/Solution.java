@@ -1,3 +1,6 @@
+// Problem: Print Name N Times using Recursion
+// Platform: Basic Recursion
+// Time Complexity: O(N)
 public class Solution{
     public void printName(String name,int count, int N){
         if (count == N){
